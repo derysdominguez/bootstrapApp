@@ -1,6 +1,7 @@
 header{
     background: url('../assets/image3.jpg') no-repeat ;
     background-size: 100%;
+    background-position-y: center;
     height: 500px;
 }
 
